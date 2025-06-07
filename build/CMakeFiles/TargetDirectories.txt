@@ -1,0 +1,3 @@
+/Users/bab/Developer/gamedev/mazer/build/CMakeFiles/mazer_game.dir
+/Users/bab/Developer/gamedev/mazer/build/CMakeFiles/edit_cache.dir
+/Users/bab/Developer/gamedev/mazer/build/CMakeFiles/rebuild_cache.dir

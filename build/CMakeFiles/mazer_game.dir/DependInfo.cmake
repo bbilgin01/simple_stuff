@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/bab/Developer/gamedev/mazer/maze.cpp" "CMakeFiles/mazer_game.dir/maze.cpp.o" "gcc" "CMakeFiles/mazer_game.dir/maze.cpp.o.d"
   "/Users/bab/Developer/gamedev/mazer/mazer_main.cpp" "CMakeFiles/mazer_game.dir/mazer_main.cpp.o" "gcc" "CMakeFiles/mazer_game.dir/mazer_main.cpp.o.d"
+  "/Users/bab/Developer/gamedev/mazer/player.cpp" "CMakeFiles/mazer_game.dir/player.cpp.o" "gcc" "CMakeFiles/mazer_game.dir/player.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

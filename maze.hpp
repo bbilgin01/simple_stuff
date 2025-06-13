@@ -1,5 +1,6 @@
-#ifndef PLAYER_HPP
-#define PLAYER_HPP
+#pragma once
+#ifndef MAZE_HPP
+#define MAZE_HPP
 
 #include <iostream>
 
@@ -14,4 +15,4 @@ extern std::pair<int, int> exitPos;
 bool isPathExists(int player_Row, int player_Col, int exit_Row, int exit_Col);
 void initMazeWithValidPath();
 void printGrid();
-#endif //PLAYER_HPP
+#endif 

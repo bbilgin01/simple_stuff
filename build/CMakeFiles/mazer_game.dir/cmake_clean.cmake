@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/mazer_game.dir/maze.cpp.o.d"
   "CMakeFiles/mazer_game.dir/mazer_main.cpp.o"
   "CMakeFiles/mazer_game.dir/mazer_main.cpp.o.d"
+  "CMakeFiles/mazer_game.dir/player.cpp.o"
+  "CMakeFiles/mazer_game.dir/player.cpp.o.d"
   "mazer_game"
   "mazer_game.pdb"
 )

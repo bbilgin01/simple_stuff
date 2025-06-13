@@ -7,4 +7,5 @@ SET (CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_executable(mazer_game
                mazer_main.cpp
-               maze.cpp)               
+               maze.cpp
+               player.cpp)               
